@@ -1,0 +1,14 @@
+{
+  "issuerDid": "did:jwk:eyJrdHkiOiJFQyIsImNydiI6IlAtMjU2Iiwia2lkIjoiWC1nYjRGczdTdnhRdFhvZDdoc0lNd1lET0dLME9OdzMtNHdRRlVBaFFPWSIsIngiOiIta0pOV1hBZWlpcFFkV0FjcExNbWxoVG5fNkUyNVRwbjhZNjVkS0k1X0t3IiwieSI6ImhDYklYWEJWRVEwNFlBRnRsRHRKeEZkN1JtWF93OVVvSzc4QUZtSnFReUUifQ",
+  "issuerKey": {
+    "type": "jwk",
+    "jwk": {
+      "kty": "EC",
+      "d": "hVJmWuArI7Dxq3gaMDcA8IQtQ8pHQL6SZqguG1NzjkU",
+      "crv": "P-256",
+      "kid": "X-gb4Fs7SvxQtXod7hsIMwYDOGK0ONw3-4wQFUAhQOY",
+      "x": "-kJNWXAeiipQdWAcpLMmlhTn_6E25Tpn8Y65dKI5_Kw",
+      "y": "hCbIXXBVEQ04YAFtlDtJxFd7RmX_w9UoK78AFmJqQyE"
+    }
+  }
+}
