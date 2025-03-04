@@ -155,6 +155,7 @@ const acceptCredentialOffer = async (req, res) => {
         console.log(" Offer URL:", credentialOfferUrl);
 
         //  Send the request to Wallet API
+        
         const response = await axios.post(
             `${WALLET_API}/wallet-api/wallet/${walletId}/exchange/useOfferRequest`,
             credentialOfferUrl,  //  Sends raw string

@@ -1,14 +1,14 @@
 {
-  "issuerDid": "did:jwk:eyJrdHkiOiJFQyIsImNydiI6IlAtMjU2Iiwia2lkIjoiWC1nYjRGczdTdnhRdFhvZDdoc0lNd1lET0dLME9OdzMtNHdRRlVBaFFPWSIsIngiOiIta0pOV1hBZWlpcFFkV0FjcExNbWxoVG5fNkUyNVRwbjhZNjVkS0k1X0t3IiwieSI6ImhDYklYWEJWRVEwNFlBRnRsRHRKeEZkN1JtWF93OVVvSzc4QUZtSnFReUUifQ",
+  "issuerDid": "did:jwk:eyJrdHkiOiJFQyIsImNydiI6IlAtMjU2Iiwia2lkIjoiZnZpZHJsenhEWWh0Yk54UFNpTmg0OVpEZzBQaWpHZnBCNTdJZk8wYUhjNCIsIngiOiJDektTQnF4a1VVbEM5R2dab2Q2UjItUS1yNm1xNjloTFlmU3BQaTFRa0tFIiwieSI6IlcxYkIyLWZEQVFDVGJaQWVvcUxJa2ZNeEpmS3JhMzV3cHdtQkZ2N0Qybm8ifQ",
   "issuerKey": {
     "type": "jwk",
     "jwk": {
       "kty": "EC",
-      "d": "hVJmWuArI7Dxq3gaMDcA8IQtQ8pHQL6SZqguG1NzjkU",
+      "d": "aeH3q3fq3J30am0PryDpu7Cu2MzNmW30Illnalhf4sY",
       "crv": "P-256",
-      "kid": "X-gb4Fs7SvxQtXod7hsIMwYDOGK0ONw3-4wQFUAhQOY",
-      "x": "-kJNWXAeiipQdWAcpLMmlhTn_6E25Tpn8Y65dKI5_Kw",
-      "y": "hCbIXXBVEQ04YAFtlDtJxFd7RmX_w9UoK78AFmJqQyE"
+      "kid": "fvidrlzxDYhtbNxPSiNh49ZDg0PijGfpB57IfO0aHc4",
+      "x": "CzKSBqxkUUlC9GgZod6R2-Q-r6mq69hLYfSpPi1QkKE",
+      "y": "W1bB2-fDAQCTbZAeoqLIkfMxJfKra35wpwmBFv7D2no"
     }
   }
 }

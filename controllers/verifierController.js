@@ -12,7 +12,7 @@ const verifyCredential = async (req, res) => {
        
         const credentialType =  "UniversityDegree"; // Use issued type or fallback
 
-        console.log("🔍 Verifying credential of type:", credentialType);
+        console.log(" Verifying credential of type:", credentialType);
 
         // Make request to the verification API
         const response = await axios.post(`${VERIFIER_API}/openid4vc/verify`, {
@@ -71,4 +71,4 @@ const getSession = async (req, res) => {
     }
 };
 
-module.exports = { verifyCredential, getSession };
+module.exports = { verifyCredential, getSession }; 
